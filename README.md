@@ -8,4 +8,4 @@ I focused on the sub-objectives below:
 * User Experience analysis
 * User Satisfaction analysis
 
-Here's alink to the (report)[https://drive.google.com/file/d/1SmiveqP3sRrGEfMurSPMfLv8EdQNIMKP/view]
+Here's alink to the [report](https://drive.google.com/file/d/1SmiveqP3sRrGEfMurSPMfLv8EdQNIMKP/view)
